@@ -1,6 +1,12 @@
-# What To Play
+# Project: What To Play
 
-Love video games but having a hard time to decide what game to play next? The What To Play (WTP) App helps video game players to pick the best game to play by narrowing down the choices with various criterias such as platform, genre, play time, popularity, and trending. The App also includes a random game picker for the indecisive gamers.
+Love video games but having a hard time to decide what game to play next? The What To Play (WTP) App helps video game players to pick the best game to play by narrowing down the choices with criterias such as platform, genre, play time, popularity, and trending.
+#### Features
+- Various criterias and sorting options to help narrow down the choice.
+- Personal bucket list to save the games to play next.
+- Played and In Progress list to track your game record.
+- A Pick One For Me button for the most indecisive.
+- Easy sign up using OAuth.
 
 ## Wireframe
 
