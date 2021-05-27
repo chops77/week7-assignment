@@ -2,7 +2,9 @@
 
 Love video games but having a hard time to decide what game to play next? The What To Play (WTP) App helps video game players to pick the best game to play by narrowing down the choices with various criterias such as platform, genre, play time, popularity, and trending. The App also includes a random game picker for the indecisive gamers.
 
-## Final Project Requirements
+## Wireframe
+
+![What To Play](https://raw.githubusercontent.com/chops77/week7-assignment/main/wireframe.png)
 
 * The project must be a React application, bootstrapped with `create-react-app`
 * Your app must be created and visible in a Github repo under your Github account
