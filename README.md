@@ -12,37 +12,10 @@ Love video games but having a hard time to decide what game to play next? The Wh
 
 ![What To Play](https://raw.githubusercontent.com/chops77/week7-assignment/main/wireframe.png)
 
-* The project must be a React application, bootstrapped with `create-react-app`
-* Your app must be created and visible in a Github repo under your Github account
-* Your app must be your own work. You may have a partner if you'd like, but be aware that you'll need to come up with a strategy for working together. Most developers on small projects create branches for new features/fixes, then merge them back into the `main` branch. Merge conflicts can arise, and you'll need to know how to resolve them.
-  * The simplest and most straightforward workflow for each team member:
-    ```bash
-    # create a branch off of main
-    git checkout main
-    git branch -b feat/new-feature-name
-
-    # commit code to this branch
-    git add .
-    git commit -m 'more code'
-
-    # periodically push to Github
-    git push
-    ```
-  * Create pull requests on Github into the `main` branch when ready to merge code. It's recommended that you merge only working and/or tested code.
-* Your app should be deployed onto a web server and publicly accessible (unless you decide to use React Native. In that case, it's recommended you use [Expo](https://expo.io/) to share the project).
-* Your app should be polished. Some recommendations for this requirement:
-  * Remove `console.log` statements once you're finished with development
-  * Utilize CSS and images to make your app look great
-  * Check for any React errors in the console
-  * Perform some basic user testing. Have other people use your app and receive feedback on usability
-  * Keep your feature set small, so you'll have time to polish the app
-* If you're feeling adventurous, you can also use React to build mobile apps using the [React Native](https://reactnative.dev/) framework. Usage is allowed for this project, **but** note that it will involve additional learning and research. Proceed at your own risk.
-
-Other than the above requirements, you're encouraged to be creative and create something you're proud of. It can be as simple or as complex as you want, and it should be high quality.
-
-## Assignment Requirements
-
-Above are the requirements for the project. For this week however, you'll need to create a plan for your project. More details are to come, but you'll need to create a pull request with the following:
+## Dependencies
+- [api.rawg.io](https://api.rawg.io/docs/)
+- [Fire base](https://firebase.google.com/)
+- [Material-UI](https://material-ui.com/)
 
 * The name of your project
 * An elevator pitch (a paragraph about what your project does). Be sure to address:
