@@ -1,6 +1,6 @@
-# Week 7 Assignment
+# What To Play
 
-Your assignment for this week is to think of a final project idea and create a plan for the project.
+Love video games but having a hard time to decide what game to play next? The What To Play (WTP) App helps video game players to pick the best game to play by narrowing down the choices with various criterias such as platform, genre, play time, popularity, and trending. The App also includes a random game picker for the indecisive gamers.
 
 ## Final Project Requirements
 
